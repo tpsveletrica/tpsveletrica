@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>TPsvEletrica | Técnico em Eletrotécnica em Goiânia</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <meta name="description" content="TPsvEletrica - Técnico em eletrotécnica em Goiânia, especializado em serviços prediais e residenciais, montagem de QDG, iluminação e infraestrutura elétrica. Atendimento rápido e seguro.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.tpsveletrica.com.br/">
+
+  <!-- Favicons -->
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+  <!-- Preconnect e Preload -->
+  <link rel="preconnect" href="https://wa.me">
+  <link rel="preload" as="image" href="imagem-eletricista-goiania.webp">
+
+  <!-- Structured Data JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "@id": "https://www.tpsveletrica.com.br/#business",
+    "name": "TPsvEletrica",
+    "description": "Técnico em eletrotécnica em Goiânia, especializado em serviços prediais, residenciais, iluminação, QDG, acabamentos e infraestrutura elétrica.",
+    "image": "https://www.tpsveletrica.com.br/imagem-eletricista-goiania.webp",
+    "telephone": "+5562993253630",
+    "email": "henriquepaulos@icloud.com",
+    "priceRange": "R$",
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "20:00"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rua W, Jardim Itaipu",
+      "postalCode": "74355506",
+      "addressLocality": "Goiânia",
+      "addressRegion": "GO",
+      "addressCountry": "BR"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -16.6869,
+      "longitude": -49.2648
+    },
+    "url": "https://www.tpsveletrica.com.br",
+    "sameAs": [
+      "https://www.facebook.com/tpsveletrica",
+      "https://www.instagram.com/tpsveletrica"
+    ]
+  }
+  </script>
+
+  <style>
+    body {margin:0;font-family:Arial,Helvetica,sans-serif;background:#f4f6f8;color:#333;line-height:1.6;-webkit-font-smoothing:antialiased;}
+    header {background:linear-gradient(135deg,#0a3d62,#1e6091);color:#fff;text-align:center;padding:32px 16px;position:relative;}
+    .logo {width:140px;height:140px;border-radius:50%;border:3px solid #f1c40f;margin-bottom:12px;object-fit:cover;}
+    h1 {margin:0;font-size:28px;}
+    .subtitulo {margin:8px 0;font-size:16px;}
+    .telefone {font-size:22px;font-weight:bold;color:#f1c40f;}
+    .telefone a {color:#f1c40f;text-decoration:none;}
+    .cta {display:inline-block;margin-top:16px;padding:14px 22px;background-color:#25d366;color:#fff;border-radius:6px;font-weight:bold;transition:transform .3s,background-color .3s;text-decoration:none;}
+    .cta:hover {background-color:#1ebe57;transform:scale(1.05);}
+    main {max-width:820px;margin:auto;padding:16px;}
+    section {background:#fff;padding:20px;margin-bottom:16px;border-radius:8px;box-shadow:0 1px 4px rgba(0,0,0,.06);}
+    section h2 {margin-top:0;color:#0a3d62;}
+    .destaque {background-color:#eaf4ff;border-left:5px solid #0a3d62;}
+    footer {background:#222;color:#fff;text-align:center;padding:14px;font-size:14px;}
+    footer a {color:#f1c40f;margin:0 8px;text-decoration:none;}
+    .whatsapp-fixo {position:fixed;bottom:calc(20px + env(safe-area-inset-bottom));right:20px;background:#25d366;color:#fff;font-size:26px;padding:14px 16px;border-radius:50%;box-shadow:0 4px 10px rgba(0,0,0,.3);z-index:999;display:flex;align-items:center;justify-content:center;text-decoration:none;transition:transform .3s;}
+    .whatsapp-fixo:hover {transform:scale(1.1);}
+    #back-to-top {position:fixed;bottom:90px;right:20px;background:#0a3d62;color:#fff;font-size:18px;padding:12px 14px;border-radius:50%;text-align:center;text-decoration:none;box-shadow:0 4px 10px rgba(0,0,0,.3);display:none;z-index:998;transition:transform .3s;}
+    #back-to-top:hover {transform:scale(1.1);}
+    img {max-width:100%;height:auto;display:block;}
+    @media (max-width:480px){h1{font-size:22px}.telefone{font-size:18px}.cta{padding:12px 18px;font-size:16px}}
+  </style>
+
+  <script>
+    // Botão Voltar ao Topo
+    window.addEventListener('scroll', function() {
+      const btn = document.getElementById('back-to-top');
+      if (window.scrollY > 300) btn.style.display = 'flex';
+      else btn.style.display = 'none';
+    });
+  </script>
+</head>
+
+<body id="top">
+
+<header>
+  <picture>
+    <source srcset="imagem-eletricista-goiania.webp" type="image/webp">
+    <img src="imagem-eletricista-goiania.jpg"
+         alt="TPsvEletrica – Técnico em eletrotécnica em Goiânia, serviços prediais, residenciais, iluminação e QDG"
+         class="logo"
+         width="140"
+         height="140"
+         loading="eager">
+  </picture>
+  <h1>TPsvEletrica – Técnico em Eletrotécnica</h1>
+  <p class="subtitulo">Serviços Prediais, Residenciais, Iluminação, QDG e Acabamentos</p>
+  <p class="telefone">📞 <a href="tel:+5562993253630">(62) 99325-3630</a></p>
+  <a class="cta" href="https://wa.me/5562993253630" target="_blank" rel="noopener noreferrer" aria-label="Solicitar orçamento pelo WhatsApp">💬 Orçamento pelo WhatsApp</a>
+</header>
+
+<main role="main">
+  <section class="destaque" id="servicos">
+    <h2>Serviços Elétricos em Goiânia</h2>
+    <ul>
+      <li>Eletricista predial e residencial</li>
+      <li>Montagem e manutenção de QDG (Quadros de Distribuição)</li>
+      <li>Iluminação interna, externa e decorativa</li>
+      <li>Infraestrutura elétrica e cabeamento</li>
+      <li>Manutenção preventiva e corretiva</li>
+      <li>Troca de tomadas, interruptores e disjuntores</li>
+      <li>Projetos de iluminação e decoração</li>
+      <li>Acabamentos elétricos e instalação de pontos</li>
+      <li>Atendimento emergencial rápido e seguro</li>
+    </ul>
+  </section>
+
+  <section id="atendimento">
+    <h2>Atendimento Rápido e Confiável</h2>
+    <p>Atendimento ágil em Goiânia e região metropolitana, com foco em segurança, qualidade e preço justo. <strong>Mais de 5 anos prestando serviços com confiança e profissionalismo.</strong></p>
+  </section>
+
+  <section id="por-que-escolher">
+    <h2>Por que escolher a TPsvEletrica?</h2>
+    <ul>
+      <li>⚡ Atendimento rápido e pontual</li>
+      <li>🔧 Técnico em eletrotécnica qualificado</li>
+      <li>🛡️ Segurança, garantia e confiança</li>
+      <li>💡 Especialista em iluminação, QDG e acabamentos</li>
+      <li>💬 Orçamento sem compromisso via WhatsApp</li>
+    </ul>
+  </section>
+
+  <section id="bairros">
+    <h2>Bairros Atendidos</h2>
+    <p>Setor Bueno, Setor Oeste, Jardim América, Setor Marista, Jardim Goiás, Jardim Itaipu, Centro e toda a região metropolitana de Goiânia.</p>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>📧 E-mail: <a href="mailto:henriquepaulos@icloud.com">henriquepaulos@icloud.com</a></p>
+  </section>
+
+  <section id="sobre">
+    <h2>Sobre o Profissional</h2>
+    <p>A <strong>TPsvEletrica</strong> atua como técnico em eletrotécnica em Goiânia, especializada em serviços prediais e residenciais, montagem de QDG, iluminação decorativa, infraestrutura elétrica, acabamentos e reparos urgentes.</p>
+  </section>
+</main>
+
+<footer role="contentinfo">
+  <p>©️ 2025 TPsvEletrica – Técnico em Eletrotécnica – Goiânia</p>
+  <p><a href="https://www.facebook.com/tpsveletrica" target="_blank" rel="noopener noreferrer">Facebook</a> | <a href="https://www.instagram.com/tpsveletrica" target="_blank" rel="noopener noreferrer">Instagram</a></p>
+</footer>
+
+<a href="https://wa.me/5562993253630"
+   class="whatsapp-fixo"
+   target="_blank" rel="noopener noreferrer"
+   aria-label="Falar com técnico em eletrotécnica pelo WhatsApp"
+   title="TPsvEletrica – Técnico em eletrotécnica em Goiânia">
+   💬
+</a>
+
+<a href="#top" id="back-to-top" role="button" aria-label="Voltar ao topo" aria-hidden="true">↑</a>
+
+</body>
+</html>
